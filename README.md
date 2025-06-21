@@ -38,6 +38,6 @@ The system is interactive and operates via structured command inputs, enabling d
 ## 🛠️ Compilation
 
 ```bash
-g++ -std=c++17 -o quantum_solver Solution.cpp
+g++ -std=c++17 -o quantum_solver chessmaster_challenge.cpp
 ./quantum_solver
 
